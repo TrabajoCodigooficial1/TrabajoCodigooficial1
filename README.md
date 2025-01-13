@@ -36,20 +36,13 @@ Una aplicación innovadora que optimiza la interacción social, tanto digital co
 
 ---
 
-## 📊 Estadísticas  
-
-| **Seguidores** | **Siguiendo** | **Incorporación** |  
-|----------------|---------------|-------------------|  
-| 1              | 0             | Hace 4 días       |  
-
----
 
 ## 🌟 Logros  
 
 - **Premio de la Constitución Española 2024**: Reconocimiento a mi contribución como fotografía y literatura relacionado con el artículo 47.  
 - **Premio Aurora Cosmos IA 2024**: Destacado por mi impacto positivo en inteligencia artificial .  
 - Valorización de **Mytelai.com** en más de **76.000 euros** por empresarios del sector tecnológico.  
-
+- La Xunta de Galicia y el programa #eduemprende de Galicia patrocina y es socia del proyecto tecnológica KnowMeet de manera oficial, mis compañeros de proyecto son : Santiago Greco Dominguez y Johan Stevan Paz Hoyos.
 ---
 
 ## 🏢 Organizaciones  
