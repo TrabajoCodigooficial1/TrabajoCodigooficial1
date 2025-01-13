@@ -1,7 +1,7 @@
 # 🌟 Andrés Blanco Ferro  
 
 <div align="center" style="background-color:#f3f4f6; padding: 20px; border-radius: 10px;">
-  <h1 style="font-size: 2.5em; color: #2d3748;">¡Bienvenido a mi Perfil de GitHub!</h1>
+  <h1 style="font-size: 2.5em; color: #2d3748;">¡La IA es el futuro!</h1>
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
 
@@ -46,9 +46,9 @@ Una aplicación innovadora que optimiza la interacción social, tanto digital co
 
 ## 🌟 Logros  
 
-- **Premio de la Constitución Española 2024**: Reconocimiento a mi contribución tecnológica.  
-- **Premio Aurora Cosmos IA 2024**: Destacado por mi impacto en inteligencia artificial.  
-- Valorización de **Mytelai.com** en más de **16.000 euros** por empresarios del sector tecnológico.  
+- **Premio de la Constitución Española 2024**: Reconocimiento a mi contribución como fotografía y literatura relacionado con el artículo 47.  
+- **Premio Aurora Cosmos IA 2024**: Destacado por mi impacto positivo en inteligencia artificial .  
+- Valorización de **Mytelai.com** en más de **76.000 euros** por empresarios del sector tecnológico.  
 
 ---
 
@@ -75,7 +75,7 @@ Una aplicación innovadora que optimiza la interacción social, tanto digital co
 > 🌟 **Mi misión es transformar ideas en realidades tecnológicas, promoviendo la educación, la sostenibilidad y el impacto social positivo.**  
 
 <div align="center" style="background-color:#e2e8f0; padding: 20px; border-radius: 10px;">
-  <p style="font-size: 1.1em; color: #2d3748;">¡Gracias por visitar mi perfil! 🚀</p>
+  <p style="font-size: 1.1em; color: #2d3748;">¡Sígueme en Instagram como @andresblancoferro! 🚀</p>
 </div>
 
 <!--
