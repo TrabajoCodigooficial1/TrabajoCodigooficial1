@@ -1,74 +1,82 @@
 # 🌟 Andrés Blanco Ferro  
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Bienvenido+a+mi+perfil" alt="Banner personal" />
-</div>  
-
-## 👋 Acerca de mí  
-
-¡Hola! Soy **Andrés Blanco Ferro**, un joven emprendedor gallego apasionado por la **tecnología**, la **inteligencia artificial** y el **desarrollo web**. Con 17 años, fundé **[Mytel AI Technology](https://mytelai.com)** y co-desarrollé **KnowMeet**, herramientas que buscan democratizar el acceso a la tecnología y optimizar la interacción en redes sociales. Actualmente, estoy estudiando **Desarrollo de Aplicaciones Web (DAW)** y trabajando en soluciones innovadoras con impacto global.  
-
----
-
-## 🏆 Logros y Reconocimientos  
-
-- 🏅 **Premio de la Constitución Española 2024**  
-- 🌟 **Premio Aurora Cosmos IA 2024**  
-- 💼 **Mytelai.com** valorada en más de 16.000 euros por empresarios tecnológicos.  
-
----
-
-## 🛠️ Proyectos Destacados  
-
-### 🚀 **Mytel AI Technology**  
-- Plataforma que organiza herramientas de inteligencia artificial por funciones.  
-- Ofrece recursos educativos gratuitos y accesibles para todos los niveles.  
-
-### 🤝 **KnowMeet**  
-- Aplicación que mejora la interacción en redes sociales.  
-- Foco en rapidez, seguridad y personalización de la experiencia del usuario.  
-
-<div align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Mytel+AI+Technology" alt="Mytel AI Technology" width="45%" />
-  <img src="https://via.placeholder.com/400x200.png?text=KnowMeet" alt="KnowMeet" width="45%" />
+<div align="center" style="background-color:#f3f4f6; padding: 20px; border-radius: 10px;">
+  <h1 style="font-size: 2.5em; color: #2d3748;">¡Bienvenido a mi Perfil de GitHub!</h1>
+  <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
 
 ---
 
-## 📍 Información  
+## 🏆 Sobre Mí  
 
 - 🌍 **Ubicación**: Galicia, Ourense  
-- 🏢 **Organizaciones**:  
-  - [@Mytel-AI-Technology](https://github.com/Mytel-AI-Technology)  
-  - [@KnowMeet-Social-Tech](https://github.com/KnowMeet-Social-Tech)  
-- 🔗 **Sitio web**: [mytelai.com](https://mytelai.com)  
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+- 🚀 Fundador de **[Mytel AI Technology](https://mytelai.com)** y co-creador de **KnowMeet**.  
+- 🎖️ Ganador del **Premio de la Constitución Española 2024** y el **Premio Aurora Cosmos IA 2024**.  
+
+Mi misión es crear soluciones tecnológicas accesibles y de impacto global, utilizando la inteligencia artificial y el desarrollo de software para mejorar la sociedad.
+
+---
+
+## 💡 Proyectos Destacados  
+
+### [Mytel AI Technology](https://mytelai.com)  
+Una plataforma diseñada para democratizar el acceso a herramientas de inteligencia artificial, organizándolas según funciones específicas. Además, ofrece **recursos educativos gratuitos** para aprender y aplicar IA.  
+
+- 🛠️ Organización intuitiva de herramientas por funciones.  
+- 📚 Cursos y recursos gratuitos para usuarios de todos los niveles.  
+- 🌐 Comunidad enfocada en la democratización tecnológica.  
+
+### [KnowMeet](https://github.com/KnowMeet-Social-Tech)  
+Una aplicación innovadora que optimiza la interacción social, tanto digital como física, con enfoque en rapidez, seguridad y personalización.  
+
+- 🔒 Seguridad en la transmisión de datos.  
+- ⚡ Experiencia de usuario rápida y optimizada.  
+- 🤝 Facilita conexiones más efectivas en redes sociales.  
 
 ---
 
 ## 📊 Estadísticas  
 
-| Seguidores | Siguiendo | Incorporación |  
-|------------|-----------|---------------|  
-| 1          | 0         | Hace 4 días   |  
+| **Seguidores** | **Siguiendo** | **Incorporación** |  
+|----------------|---------------|-------------------|  
+| 1              | 0             | Hace 4 días       |  
 
 ---
 
-## 💼 Contacto  
+## 🌟 Logros  
+
+- **Premio de la Constitución Española 2024**: Reconocimiento a mi contribución tecnológica.  
+- **Premio Aurora Cosmos IA 2024**: Destacado por mi impacto en inteligencia artificial.  
+- Valorización de **Mytelai.com** en más de **16.000 euros** por empresarios del sector tecnológico.  
+
+---
+
+## 🏢 Organizaciones  
+
+- [@Mytel-AI-Technology](https://github.com/Mytel-AI-Technology)  
+- [@KnowMeet-Social-Tech](https://github.com/KnowMeet-Social-Tech)  
+
+---
+
+## 📬 Contacto  
 
 <div align="center">  
   <a href="https://linkedin.com/in/andresblancoferro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
   <a href="https://github.com/andresblancoferro"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>  
   <a href="mailto:andres.blanco.ferro@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+  <a href="https://mytelai.com"><img src="https://img.shields.io/badge/Website-0a66c2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"></a>  
 </div>  
 
 ---
 
-> **🌟 Mi misión es transformar ideas en realidades tecnológicas, promoviendo la educación, la sostenibilidad y el impacto social positivo.**  
+## 🔗 Reflexión Final  
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x100.png?text=Gracias+por+visitar+mi+perfil!" alt="Footer" />
-</div>  
+> 🌟 **Mi misión es transformar ideas en realidades tecnológicas, promoviendo la educación, la sostenibilidad y el impacto social positivo.**  
 
+<div align="center" style="background-color:#e2e8f0; padding: 20px; border-radius: 10px;">
+  <p style="font-size: 1.1em; color: #2d3748;">¡Gracias por visitar mi perfil! 🚀</p>
+</div>
 
 <!--
 **TrabajoCodigooficial1/TrabajoCodigooficial1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
