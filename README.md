@@ -4,7 +4,7 @@
   <h1 style="font-size: 2.5em; color: #2d3748;">¡La IA es el futuro!</h1>
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
-![Foto profesional de Andrés Blanco](https://upload.wikimedia.org/wikipedia/commons/3/3c/AndresBlancoferro%2Cfotoprofesional.jpg)
+
 
 ---
 
