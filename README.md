@@ -1,9 +1,9 @@
 # 🌟 Andrés Blanco Ferro  
-
-<div align="center" style="background-color:#f3f4f6; padding: 20px; border-radius: 10px;">
-  <h1 style="font-size: 1.8em; color: #4fa3f7; font-style: italic; background: linear-gradient(to right, #4fa3f7, #f9d34d); -webkit-background-clip: text; color: transparent;">
-  ¡La IA es el camino hacia el fin de la comprensión!
-</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;¡La IA es el camino hacia el fin de la comprensión!&emsp;✩</h1>
+</p>
 
   <p style="font-size: 1.2em; color: #4a5568;">Soy un joven emprendedor gallego de 18 años apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.  Me gusta leer biografías que me inspiren y lograr metas que otros pueden pero no quieren.</p>
 </div>
