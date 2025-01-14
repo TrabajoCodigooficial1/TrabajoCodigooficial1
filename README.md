@@ -22,7 +22,7 @@ Mi misión es crear soluciones tecnológicas accesibles y de impacto global, uti
 
 
 ### 💬 Noticias:
-[![Carta al Director (La región)](https://img.shields.io/badge/Entrevista_Voz_de_Galicia-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)]([https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm](https://www.laregion.es/cartas-al-director/manuel-perez-cifp-carballeira-ourense/andres-blanco-ferro-emprendedor-alumno-dia/202410172126001336511.html))
+[![Carta al Director (La región)]([https://www.lavozdegalicia.es/noticia/ourense/ourense/2024/08/08/martin-saco-plaza-primera-24-anos-trabajaba-vez-santiago-escuchaba-temas-tren-dias/00031723132105117690270.htm](https://www.laregion.es/cartas-al-director/manuel-perez-cifp-carballeira-ourense/andres-blanco-ferro-emprendedor-alumno-dia/202410172126001336511.html))
 
 
 ## 💡 Proyectos Destacados  
