@@ -20,10 +20,17 @@ Mi misión es crear soluciones tecnológicas accesibles y de impacto global, uti
 
 ---
 
-
-### 💬 Noticias:
-
+### 💬 Algunas Noticias Destacadas:
 [![Entrevista La Región](https://img.shields.io/badge/Entrevista_La_Región-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.laregion.es/cartas-al-director/manuel-perez-cifp-carballeira-ourense/andres-blanco-ferro-emprendedor-alumno-dia/202410172126001336511.html)
+
+[![Agenda Energética](https://img.shields.io/badge/Agenda_Energética-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.agendaenergetica.com.ar/Noticia.php?Id=3220)
+
+[![Canal 5 Noticias](https://img.shields.io/badge/Canal_5_Noticias-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.canal5noticias.es/2024/12/quien-es-andres-blanco-ferro.html)
+
+[![Deradios](https://img.shields.io/badge/Deradios-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://deradios.com/ia/figura-andres-blanco-ferro-la-nueva-promesa-gallega-gracias-a-la-ia/)
+
+[![Mar de Plata](https://img.shields.io/badge/Mar_de_Plata-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.mardelplataweb.com/contenido/65925-andres-blanco-ferro-logra-que-empresarios-valoren-su-plataforma-de-ia-en-mas-de-16000-euros)
+
 
 
 
