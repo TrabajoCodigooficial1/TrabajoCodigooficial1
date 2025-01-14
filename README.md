@@ -4,7 +4,8 @@
   <h1 style="font-size: 2.5em; color: #2d3748;">¡La IA es el futuro!</h1>
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
-<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMonjd1Ga5nnrUMPUXI9Q3VgwZwjk6FR7QxYvHQq3TQKAUWpovn7Q7P-mKsfhzj_NQbVicWIEmytkGZVmtOH7ZtdXiR5gDS5ynZZDCDdHLeK4eNMLyd_Qv5G_FADHT2v7z-PRWAtW-Ig-zd2HnlTbl6cNYj_BaAIQAChX2mNpthUJwx085GkxWvFWmpgiE/s320/IMG_20250108_002947_692%20(1).webp=w352-h352-p-k-no-nu)" width="360px"/>
+![Descripción de la imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMonjd1Ga5nnrUMPUXI9Q3VgwZwjk6FR7QxYvHQq3TQKAUWpovn7Q7P-mKsfhzj_NQbVicWIEmytkGZVmtOH7ZtdXiR5gDS5ynZZDCDdHLeK4eNMLyd_Qv5G_FADHT2v7z-PRWAtW-Ig-zd2HnlTbl6cNYj_BaAIQAChX2mNpthUJwx085GkxWvFWmpgiE/s4000/IMG_20250108_002947_692%20(1).webp)
+
 ---
 
 ## 🏆 Sobre Mí  
