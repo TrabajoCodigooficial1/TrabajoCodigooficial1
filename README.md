@@ -4,12 +4,11 @@
   <h1 style="font-size: 2.5em; color: #2d3748;">¡La IA es el futuro!</h1>
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
-### 💬 Sígueme en Instagram:
-[![Mi Instagram](https://img.shields.io/badge/Sígueme_en_Instagram-%234c8bf5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresblancoferro/)
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 ---
-
+### 💬 Sígueme en Instagram:
+[![Mi Instagram](https://img.shields.io/badge/Sígueme_en_Instagram-%234c8bf5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresblancoferro/)
 ## 🏆 Sobre Mí  
 
 - 🌍 **Ubicación**: Galicia, Ourense  
