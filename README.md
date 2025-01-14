@@ -83,9 +83,10 @@ Una aplicación innovadora que optimiza la interacción social, tanto digital co
 
 > 🌟 **Mi misión es transformar ideas en realidades tecnológicas, promoviendo la educación, la sostenibilidad y el impacto social positivo.**  
 
-<div align="center" style="background-color:#e2e8f0; padding: 20px; border-radius: 10px;">
-  <p style="font-size: 1.1em; color: #2d3748;">¡Sígueme en Instagram como @andresblancoferro! 🚀</p>
+<div align="center" style="background-color:#4c8bf5; padding: 12px 24px; border-radius: 50px; display: inline-block;">
+  <a href="https://www.instagram.com/andresblancoferro/" target="_blank" style="font-size: 1.1em; color: white; text-decoration: none; font-weight: bold;">¡Sígueme en Instagram como @andresblancoferro! 🚀</a>
 </div>
+
 
 <!--
 **TrabajoCodigooficial1/TrabajoCodigooficial1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
