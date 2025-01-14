@@ -37,24 +37,6 @@ Mi misión es crear soluciones tecnológicas accesibles y de impacto global, uti
 
 
 
-## 💡 Proyectos Destacados  
-
-### [Mytel AI Technology](https://mytelai.com)  
-Una plataforma diseñada para democratizar el acceso a herramientas de inteligencia artificial, organizándolas según funciones específicas. Además, ofrece **recursos educativos gratuitos** para aprender y aplicar IA.  
-
-- 🛠️ Organización intuitiva de herramientas por funciones.  
-- 📚 Cursos y recursos gratuitos para usuarios de todos los niveles.  
-- 🌐 Comunidad enfocada en la democratización tecnológica.  
-
-### [KnowMeet](https://github.com/KnowMeet-Social-Tech)  
-Una aplicación innovadora que optimiza la interacción social, tanto digital como física, con enfoque en rapidez, seguridad y personalización.  
-
-- 🔒 Seguridad en la transmisión de datos.  
-- ⚡ Experiencia de usuario rápida y optimizada.  
-- 🤝 Facilita conexiones más efectivas en redes sociales.  
-
----
-
 
 ## 🌟 Logros  
 
