@@ -5,6 +5,7 @@
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
 
+<img align="right" alt="Foto profesional de Andrés Blanco" src="assets/AndresBlancoferro.jpg" width="360px"/>
 
 ---
 
