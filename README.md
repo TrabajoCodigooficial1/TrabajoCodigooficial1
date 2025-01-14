@@ -9,7 +9,6 @@
 </div>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
----
 ### 💬 Sígueme en Instagram:
 [![Mi Instagram](https://img.shields.io/badge/Sígueme_en_Instagram-%234c8bf5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresblancoferro/)
 ## 🏆 Sobre Mí  
