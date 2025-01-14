@@ -83,9 +83,9 @@ Una aplicación innovadora que optimiza la interacción social, tanto digital co
 
 > 🌟 **Mi misión es transformar ideas en realidades tecnológicas, promoviendo la educación, la sostenibilidad y el impacto social positivo.**  
 
-<div align="center" style="background-color:#4c8bf5; padding: 12px 24px; border-radius: 50px; display: inline-block;">
-  <a href="https://www.instagram.com/andresblancoferro/" target="_blank" style="font-size: 1.1em; color: white; text-decoration: none; font-weight: bold;">¡Sígueme en Instagram como @andresblancoferro! 🚀</a>
-</div>
+### 💬 Sígueme en Instagram:
+[![Sígueme en Instagram](https://img.shields.io/badge/Sígueme_en_Instagram-%234c8bf5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresblancoferro/)
+
 
 
 <!--
