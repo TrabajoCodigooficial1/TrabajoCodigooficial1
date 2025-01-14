@@ -4,7 +4,7 @@
   <h1 style="font-size: 2.5em; color: #2d3748;">¡La IA es el futuro!</h1>
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
-<img align="right" alt="Imagen" src="[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMonjd1Ga5nnrUMPUXI9Q3VgwZwjk6FR7QxYvHQq3TQKAUWpovn7Q7P-mKsfhzj_NQbVicWIEmytkGZVmtOH7ZtdXiR5gDS5ynZZDCDdHLeK4eNMLyd_Qv5G_FADHT2v7z-PRWAtW-Ig-zd2HnlTbl6cNYj_BaAIQAChX2mNpthUJwx085GkxWvFWmpgiE/s4000/IMG_20250108_002947_692%20(1).webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikiquote.org%2Fwiki%2FAndr%25C3%25A9s_Blanco_Ferro&psig=AOvVaw2RifxK0pJlnx9FZe5E7owd&ust=1736928341253000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC2_7rg9IoDFQAAAAAdAAAAABAE)" width="360px"/>
+<img align="right" alt="Foto profesional de Andrés Blanco" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/AndresBlancoferro%2Cfotoprofesional.jpg" width="360px"/>
 
 ---
 
