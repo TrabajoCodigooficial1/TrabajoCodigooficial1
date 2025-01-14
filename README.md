@@ -5,8 +5,8 @@
   ¡La IA es el camino hacia el fin de la comprensión!
 </h1>
 
-  <p style="font-size: 1.2em; color: #4a5568;">Soy un joven emprendedor gallego de 18 años apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
-</div> ME gusta leer biografías que me inspiren y lograr metas que otros pueden pero no quieren.
+  <p style="font-size: 1.2em; color: #4a5568;">Soy un joven emprendedor gallego de 18 años apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.  Me gusta leer biografías que me inspiren y lograr metas que otros pueden pero no quieren.</p>
+</div>
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 ---
