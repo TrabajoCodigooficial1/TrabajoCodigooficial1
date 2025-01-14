@@ -5,7 +5,7 @@
   <p style="font-size: 1.2em; color: #4a5568;">Soy Andrés Blanco Ferro, un joven emprendedor gallego apasionado por la <strong>tecnología</strong>, la <strong>inteligencia artificial</strong>, y el <strong>desarrollo web</strong>.</p>
 </div>  
 
-<img align="right" alt="[Foto profesional de Andrés Blanco" src="(https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png)" width="360px"/>
+<img align="right" alt="" src="(https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png)" width="360px"/>
 
 ---
 
