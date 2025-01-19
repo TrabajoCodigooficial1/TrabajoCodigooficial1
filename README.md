@@ -24,7 +24,6 @@ Mi misión es crear soluciones tecnológicas accesibles y de impacto global, uti
 
 ### 💬 Algunas Noticias Destacadas:
 
-[![Entrevista La Región](https://www.laregion.es/articulo/ourense/alumno-ourense-fp-crea-google-ia/202501182344471364908.html)
 
 [![Entrevista La Región](https://img.shields.io/badge/Entrevista_La_Región-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.laregion.es/cartas-al-director/manuel-perez-cifp-carballeira-ourense/andres-blanco-ferro-emprendedor-alumno-dia/202410172126001336511.html)
 
@@ -36,6 +35,7 @@ Mi misión es crear soluciones tecnológicas accesibles y de impacto global, uti
 
 [![Mar de Plata](https://img.shields.io/badge/Mar_de_Plata-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.mardelplataweb.com/contenido/65925-andres-blanco-ferro-logra-que-empresarios-valoren-su-plataforma-de-ia-en-mas-de-16000-euros)
 
+[![La Región](https://img.shields.io/badge/La_Región-%233D3D3D.svg?style=for-the-badge&logo=news&logoColor=white)](https://www.laregion.es/articulo/ourense/alumno-ourense-fp-crea-google-ia/202501182344471364908.html)
 
 
 
